@@ -12,5 +12,5 @@ Pour utiliser ce guide, suivez les étapes ci-dessous :
 
 Pour toute question ou suggestion, n'hésitez pas à nous contacter: motasem.alrahabi@gmail.com.
 
-Ce guide est mis à disposition sous la licence MIT. Voir le fichier LICENSE pour plus de détails.
+Ce guide est mis à disposition sous la licence MIT. 
 
