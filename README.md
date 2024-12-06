@@ -14,7 +14,8 @@ Pour toute question ou suggestion, n'hésitez pas à nous contacter: motasem.alr
 
 Ce guide est mis à disposition sous la licence MIT. 
 
-Publication: 
+Publication:
+
 Motasem Alrahabi, Carmen Brando, Francesca Frontini, Arthur Provenier, Romain Jalabert, Margarite Bordry, Camille Koskas, James Gawley, Guide d'annotation manuelle d'entités nommées dans des corpus littéraires (version 2), 2024 https://hal.science/hal-03156278 
 
 
